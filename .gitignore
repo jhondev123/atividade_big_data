@@ -1,0 +1,4 @@
+build/
+saida/
+hadoop.log
+netflix-analysis.jar
